@@ -1,0 +1,1 @@
+const items=[{label:"Tutorials",description:"Abstracts zu den Tutorials",href:"/docs/category/tutorials",icon:"\ud83d\udcd6"},{label:"Vortr\xe4ge",description:"Abstracts zu den Vortr\xe4gen",href:"/docs/category/vortr\xe4ge",icon:"\ud83d\udda5"},{label:"Workshops",description:"Abstracts zu den Workshops",href:"/docs/category/workshops",icon:"\ud83d\udee0"}];export default items;
