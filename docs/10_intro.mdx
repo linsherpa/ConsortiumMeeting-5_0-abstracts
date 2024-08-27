@@ -1,0 +1,23 @@
+---
+sidebar_position: 1
+---
+
+import useBaseUrl from "@docusaurus/useBaseUrl";
+
+import MyImg from "@site/src/components/MyImg";
+
+import MyDocCardList from "@site/src/components/MyDocCardList/MyDocCardList";
+import items from "@site/static/index_items.js";
+
+# Willkommen
+
+<MyImg
+    src={useBaseUrl("img/ppnmr2024_logo.svg")}
+    srcDark={useBaseUrl("/img/ppnmr2024_logo_dark.svg")}
+    alt="PPNMR 2024 Logo"
+    width="600"
+/>
+
+## Abstracts
+
+<MyDocCardList items={items} />
