@@ -4,30 +4,85 @@
  * work well for content-centric websites.
  */
 
-@import "@fontsource/inter/200.css";
-@import "@fontsource/inter/300.css";
-@import "@fontsource/inter/400.css";
-@import "@fontsource/inter/500.css";
-@import "@fontsource/inter/700.css";
+@import "@fontsource/ibm-plex-sans/400.css";
+@import "@fontsource/ibm-plex-sans/600.css";
+@import "@fontsource/ibm-plex-sans/400-italic.css";
+@import "@fontsource/ibm-plex-sans/600-italic.css";
 
 /* You can override the default Infima variables here. */
 :root {
-    --ifm-color-primary: #1d71b8;
+    --ifm-color-primary: #00617c;
     --ifm-color-primary-dark: var(--ifm-color-primary);
-    --ifm-color-primary-darker: #1d71b8;
-    --ifm-color-primary-darkest: #1d71b8;
-    --ifm-color-primary-light: #1d71b8;
-    --ifm-color-primary-lighter: #1d71b8;
-    --ifm-color-primary-lightest: #1d71b8;
-    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-    --ifm-navbar-height: 6rem;
-
-    --ifm-font-family-base: "Inter", sans-serif;
-    --ifm-font-size-base: 1.1em;
-    --ifm-heading-font-weight: 700;
-    --ifm-font-weight-bold: 700;
-
+    --ifm-color-primary-darker: var(--ifm-color-primary);
+    --ifm-color-primary-darkest: var(--ifm-color-primary);
+    --ifm-color-primary-light: #009cbc;
+    --ifm-color-primary-lighter: var(--ifm-color-primary);
+    --ifm-color-primary-lightest: var(--ifm-color-primary);
     --ifm-code-font-size: 95%;
+    --ifm-font-family-base: "IBM Plex Sans", sans-serif;
+    --ifm-heading-color: var(--ifm-color-primary);
+    --ifm-color-secondary: #873593;
+    --ifm-color-secondary-dark: var(--ifm-color-secondary);
+    --ifm-color-secondary-darker: var(--ifm-color-secondary);
+    --ifm-color-secondary-darkest: var(--ifm-color-secondary);
+    --ifm-color-secondary-light: var(--ifm-color-secondary);
+    --ifm-color-secondary-lighter: var(--ifm-color-secondary);
+    --ifm-color-secondary-lightest: var(--ifm-color-secondary);
+    --ifm-color-danger: #e30613;
+    --ifm-color-danger-dark: var(--ifm-color-danger);
+    --ifm-color-danger-darker: var(--ifm-color-danger);
+    --ifm-color-danger-darkest: var(--ifm-color-danger);
+    --ifm-color-danger-light: var(--ifm-color-danger);
+    --ifm-color-danger-lighter: var(--ifm-color-danger);
+    --ifm-color-danger-lightest: var(--ifm-color-danger);
+    --ifm-color-success: var(--ifm-color-secondary);
+    --ifm-color-success-dark: var(--ifm-color-success);
+    --ifm-color-success-darker: var(--ifm-color-success);
+    --ifm-color-success-darkest: var(--ifm-color-success);
+    --ifm-color-success-light: var(--ifm-color-success);
+    --ifm-color-success-lighter: var(--ifm-color-success);
+    --ifm-color-success-lightest: var(--ifm-color-success);
+    --ifm-color-info: #009cbc;
+    --ifm-color-info-dark: var(--ifm-color-info);
+    --ifm-color-info-darker: var(--ifm-color-info);
+    --ifm-color-info-darkest: var(--ifm-color-info);
+    --ifm-color-info-light: var(--ifm-color-info);
+    --ifm-color-info-lighter: var(--ifm-color-info);
+    --ifm-color-info-lightest: var(--ifm-color-info);
+    --ifm-color-caution: #f1de1e;
+    --ifm-color-caution-dark: var(--ifm-color-caution);
+    --ifm-color-caution-darker: var(--ifm-color-caution);
+    --ifm-color-caution-darkest: var(--ifm-color-caution);
+    --ifm-color-caution-light: var(--ifm-color-caution);
+    --ifm-color-caution-lighter: var(--ifm-color-caution);
+    --ifm-color-caution-lightest: var(--ifm-color-caution);
+    --ifm-global-shadow-lw: 0 3px 4px 0 rgba(0, 0, 0, 0.3);
+    --ifm-link-color: var(--ifm-color-primary);
+    --ifm-link-decoration: bold;
+    --ifm-link-hover-color: var(--ifm-link-color);
+    --ifm-link-hover-decoration: underline;
+    --ifm-footer-link-hover-color: var(--ifm-color-danger);
+
+    --ifm-table-border-width: 0;
+    --ifm-table-head-background: var(--ifm-color-primary);
+    --ifm-table-head-color: white;
+
+    --ifm-hero-text-color: white;
+
+    --ifm-navbar-search-input-placeholder-color: var(--ifm-color-emphasis-800);
+
+    --ifm-font-size-base: 13pt;
+
+    --ifm-button-border-radius: 0;
+
+    --ifm-navbar-height: 5rem;
+    --ifm-navbar-shadow: transparent;
+    --n4c-navbar-border: #e0e0e0;
+
+    --ifm-alert-border-left-width: 1pt;
+    --ifm-alert-border-width: 1pt;
+    --ifm-alert-border-radius: 0;
+    --ifm-alert-shadow: transparent;
 
     --ifm-default-font-size: var(--ifm-font-size-base) /
         var(--ifm-line-height-base) var(--ifm-font-family-base);
@@ -104,4 +159,19 @@ h5 {
 h6 {
     font-weight: unset;
     font-size: var(--ifm-h6-font-size);
+}
+
+.footer__link-item {
+    color: var(--ifm-footer-link-color);
+    line-height: 2;
+    font-weight: unset;
+}
+
+.footer--dark {
+    --ifm-footer-background-color: var(--ifm-color-primary);
+    --ifm-footer-color: var(--ifm-footer-link-color);
+    --ifm-footer-link-color: var(--ifm-color-white);
+    --ifm-footer-title-color: var(--ifm-color-white);
+    font-weight: unset;
+    border-top: 1px solid white;
 }

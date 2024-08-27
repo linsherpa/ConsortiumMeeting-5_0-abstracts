@@ -13,7 +13,7 @@ const config = {
     favicon: "img/favicon.ico",
 
     url: "https://your-docusaurus-site.example.com",
-    baseUrl: "/ppnmr-abstracts/",
+    baseUrl: "/ConsortiumMeeting-5_0-abstracts/",
 
     onBrokenLinks: "warn",
     onBrokenMarkdownLinks: "warn",
@@ -46,8 +46,8 @@ const config = {
             navbar: {
                 logo: {
                     alt: "My Site Logo",
-                    src: "img/ppnmr_weblogo.svg",
-                    srcDark: "img/ppnmr_weblogo_dark.svg",
+                    src: "img/N4C_logo_navbar.svg",
+                    srcDark: "img/N4C_logo_navbar.svg",
                 },
 
                 items: [
