@@ -34,14 +34,14 @@ export default function Home() {
     return (
         <Layout
             title={`${siteConfig.title}`}
-            description="Digitales Book of Abstracts zur Tagung PPNMR"
+            description="Digital Book of Abstracts NFDI4Chem Consortium Meeting 5.0"
         >
             <HomepageHeader />
             <main className="main">
                 <MyImg
                     className="main__logo"
-                    src="img/ppnmr2024_logo.svg"
-                    srcDark="img/ppnmr2024_logo_dark.svg"
+                    src="img/nfdi4chem-logo.svg"
+                    srcDark="img/nfdi4chem-logo-dark.svg"
                 />
             </main>
         </Layout>
