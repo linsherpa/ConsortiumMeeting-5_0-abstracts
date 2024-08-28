@@ -5,10 +5,10 @@ description: "Insights from the euroSAMPL blind prediction challenge for the nex
 
 # Insights from the euroSAMPL blind prediction challenge for the next NFDI4Chem phase
 
-#### N. Tielker1, P. Kibies1, M. Urban1, B. Hein-Janke2, M. Lim3, J. Gretz4, R. A. Mata2,                    P. Czodrowski3, S. M. Kast1
+#### N. Tielker<sus>1<sus>, P. Kibies1, M. Urban1, B. Hein-Janke2, M. Lim3, J. Gretz4, R. A. Mata2,                    P. Czodrowski3, S. M. Kast1
 
 
-##### 1TU Dortmund University, 2Georg August University of Göttingen, 3Johannes Gutenberg University Mainz, 4Ruhr University Bochum
+##### <sus>1TU<sus> Dortmund University, 2Georg August University of Göttingen, 3Johannes Gutenberg University Mainz, 4Ruhr University Bochum
 
 ###### E-Mail: 
 
