@@ -46,8 +46,8 @@ const config = {
             navbar: {
                 logo: {
                     alt: "NFDI4Chem Logo",
-                    src: "img/nfdi4chem-logo.svg",
-                    srcDark: "img/nfdi4chem-logo-dark.svg",
+                    src: "img/N4C_logo_navbar.svg",
+                    srcDark: "img/N4C_logo_navbar.svg",
                 },
 
                 items: [
