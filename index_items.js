@@ -1,1 +1,1 @@
-const items=[{label:"Poster",description:"Poster Abstracts",href:"/docs/category/poster",icon:"\ud83d\udda5"},{label:"Workshops",description:"Workshop Abstracts",href:"/docs/category/workshop",icon:"\ud83d\udee0"}];export default items;
+const items=[{label:"Poster",description:"Poster Abstracts",href:"/docs/category/poster",icon:"\ud83d\udda5"}];export default items;
