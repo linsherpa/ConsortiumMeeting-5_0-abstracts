@@ -5,10 +5,12 @@ description: "Insights from the euroSAMPL blind prediction challenge for the nex
 
 # Insights from the euroSAMPL blind prediction challenge for the next NFDI4Chem phase
 
-#### N. Tielker<sus>1<sus>, P. Kibies1, M. Urban1, B. Hein-Janke2, M. Lim3, J. Gretz4, R. A. Mata2,                    P. Czodrowski3, S. M. Kast1
+#### N. Tielker^1^, P. Kibies^1^, M. Urban^1^, B. Hein-Janke^2^, M. Lim^3^, J. Gretz^4^, R. A. Mata^2^,   P. Czodrowski^3^, S. M. Kast^1^
 
 
-##### <sus>1TU<sus> Dortmund University, 2Georg August University of Göttingen, 3Johannes Gutenberg University Mainz, 4Ruhr University Bochum
+##### ^1^TU Dortmund University 
+##### ^2^Georg August University of Göttingen, 
+##### ^3^Johannes Gutenberg University Mainz, 4Ruhr University Bochum
 
 ###### E-Mail: 
 
@@ -21,5 +23,7 @@ Processing and analysis of participants’ data was automated, with final scores
 Collectively, insights gathered from the euroSAMPL1 challenge in terms of challenge design and technical implementation stimulate ideas for future rounds. This applies not only to the submission of data, but overall how the process is designed in order to remove (as far as possible) human error. These observations pave the way for activities (improvement of ontologies, standardization of computational metadata, digitalization of workflows,...) in a second NFDI4Chem phase.
 
 [1]	https://www.samplchallenges.org
+
 [2]	https://qmbench.net/eurosampl/
+
 [3]	https://gitlab.tu-dortmund.de/kast_ccb/eurosampl/challenge
