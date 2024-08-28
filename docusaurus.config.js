@@ -8,11 +8,11 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: "PPNMR Abstracts",
-    tagline: "Praktische Probleme der Kernresonanzspektroskopie",
+    title: "NFDI4Chem CM5.0 Abstracts",
+    tagline: "NFDI4Chem Consortium Meeting 5.0 in Halle, 10./11.09.2024",
     favicon: "img/favicon.ico",
 
-    url: "https://your-docusaurus-site.example.com",
+    url: "https://nfdi4chem.github.io/",
     baseUrl: "/ConsortiumMeeting-5_0-abstracts/",
 
     onBrokenLinks: "warn",
@@ -45,7 +45,7 @@ const config = {
             image: "img/docusaurus-social-card.jpg",
             navbar: {
                 logo: {
-                    alt: "My Site Logo",
+                    alt: "NFDI4Chem Logo",
                     src: "img/N4C_logo_navbar.svg",
                     srcDark: "img/N4C_logo_navbar.svg",
                 },
@@ -56,8 +56,8 @@ const config = {
                         label: "Start",
                     },
                     {
-                        href: "https://www.uni-frankfurt.de/132222728/PPNMR_2024",
-                        label: "PPNMR 2024",
+                        href: "https://www.nfdi4chem.de/",
+                        label: "NFDI4Chem Consortium Meeting 5.0 in Halle, 10./11.09.2024",
                     },
                 ],
             },
