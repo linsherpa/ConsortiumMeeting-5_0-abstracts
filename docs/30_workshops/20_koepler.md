@@ -5,10 +5,10 @@ description: "Semantic Data Hub"
 
 # Semantic Data Hub
 
-#### ^1^Oliver Koepler, ^2^Steffen Neumann and others
+#### <sup>1</sup>Oliver Koepler, <sup>2</sup>Steffen Neumann and others
 
-##### ^1^TIB 
-##### ^2^IPB
+##### <sup>1</sup>TIB 
+##### <sup>2</sup>IPB
 
 ###### E-Mail: Oliver.Koepler(at)tib.eu, sneumann(at)ipb-halle.de
 
