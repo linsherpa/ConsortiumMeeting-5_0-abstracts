@@ -7,9 +7,10 @@ description: "Navigating Data Complexity: Standardizing Diverse Formats with Con
 
 #### Lincoln Sherpa
 
-##### Centre for Information Services & High Performance Computing (ZIH), TU Dresden, 
+##### Centre for Information Services & High Performance Computing (ZIH), TU Dresden,
 
-###### E-Mail: lincoln.sherpa(at)tu-dresden.de
+###### E-mail: lincoln.sherpa@tu-dresden.de
+
 
 The integration of the latest machines and technologies, combined with a diverse array of existing systems, expands the range of data formats and types, thereby introducing new challenges. To effectively navigate these complexities, it is crucial to implement robust governance mechanisms that ensure seamless conversion of diverse data formats into standardized forms. An infrastructure for deploying converter services has been established, providing users with a streamlined, user-friendly platform for effortlessly transforming data into standardized formats.
 
