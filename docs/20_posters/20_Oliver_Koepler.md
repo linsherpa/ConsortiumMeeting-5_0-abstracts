@@ -15,7 +15,7 @@ description: "NFDI4Chem's Semantic Data Hub: One-stop Shop for FAIR Chemistry Me
 
 ###### E-Mail: 
 
-! [Figure](/img/oliver.png)
+! [Figure](static/img/oliver.png)
 
 The NFDI4Chem Semantic Data Hub (SDH) comprises a suite of existing and planned NFDI4Chem services that work synergistically to enhance the management and integration of FAIR chemistry research data. Electronic lab notebooks (ELNs), like Chemotion, facilitate the initial generation of data, allowing scientists to document their experiments in a structured digital format. This data, along with associated metadata, is subsequently uploaded to data repositories, such as Chemotion Repository, RADAR4Chem or nmrXiv, which provide secure storage solutions for long-term access and sharing. Both services utilize the Terminology Service (TS) to annotate data with standardized concepts from a curated collection of relevant chemistry-specific terminologies, such as ChEBI for identifying chemical entities or CHMO for identifying the analytical methods. Semantic engineers and domain experts use the TS to search, browse, develop, and curate these terminologies, ensuring that they adhere to established standards and best practices that enhance interoperability across diverse datasets. The Search Service aggregates the metadata from the data repositories, creating a comprehensive index that acts as a single point of access for both human and machine users. It thus enables efficient discovery of relevant datasets and provides easy data access by linking to the hosting repositories.
 
