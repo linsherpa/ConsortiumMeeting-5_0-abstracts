@@ -1,22 +1,21 @@
 ---
 
 
-title: "Sherpa"
-description: "Navigating Data Complexity: Standardizing Diverse Formats with Converter Services"
+title: "Adam Basha"
+description: "New Features in Chemotion ELN: Gaseous Reaction Schemes, Sample Type Extension: Mixtures, Chemspectra"
 ---
 
-# Navigating Data Complexity: Standardizing Diverse Formats with Converter Services
+# New Features in Chemotion ELN: Gaseous Reaction Schemes, Sample Type Extension: Mixtures, Chemspectra
 
-#### Lincoln Sherpa
+#### Adam Basha, Lan B. Q. Le, and Tasnim Mehzabin
 
-##### Centre for Information Services & High Performance Computing (ZIH), TU Dresden, 
+##### 
 
-###### E-Mail: lincoln.sherpa(at)tu-dresden.de
+###### E-Mail:
 
-The integration of the latest machines and technologies, combined with a diverse array of existing systems, expands the range of data formats and types, thereby introducing new challenges. To effectively navigate these complexities, it is crucial to implement robust governance mechanisms that ensure seamless conversion of diverse data formats into standardized forms. An infrastructure for deploying converter services has been established, providing users with a streamlined, user-friendly platform for effortlessly transforming data into standardized formats.
+The Chemotion electronic lab notebook (ELN) is well known for being an open-source, web-based application designed to provide FAIR solutions for digitalizing chemical data, with a primary focus on organic chemistry. This work presents the recent updates that have been incorporated, along with upcoming features nearing completion. Until now, samples in the Chemotion ELN were categorized as single molecules. While this was adequate for many research purposes, it needed to cover the variety of sample types found in modern chemical research, including mixtures, polymers, and metal-organic frameworks (MOFs). Thus, the sample type extension feature aims to expand Chemotion ELN's functionality by implementing a thorough sample classification system that will enable more precise classification and management of various chemical entities, including mixtures, polymers, MOFs, and other complex sample types. With that aim, we have introduced a new sample type called "Mixture". The goal is to allow researchers to combine multiple samples or molecules into mixtures, track individual components, and perform necessary calculations related to concentrations, volumes, and other parameters.
 
-The converter service is built on the Common Workflow Language (CWL), selected for its exceptional interoperability, portability, and reproducibility. The source code is housed in a GitLab repository, complete with a CI/CD pipeline that not only automates the generation of conversion and validation summary reports but also fosters community collaboration. These reports offer a detailed overview of the conversion and validation process, ensuring transparency and efficiency across various file formats.
+The upgraded Spectra Viewer allows ELN’s admin to configure the missing layout types in *.jdx, *.dx files that ELN supported, e.g., “XRD” for X-RAY DIFFRACTION. In particular, Cyclic Voltammetry (CV), setting reference values, or shifting the spectrum based on a specific value can be done with the newly upgraded Spectra Viewer.
 
-The repository includes all the necessary code to run a converter, which is built on Flask, adheres to the OpenAPI specification, and provides a REST API for seamless integration with other NFDI4Chem services. The entire system is also packaged in a Docker image for easy deployment, and with a Helm chart available to streamline deployment in Kubernetes environments.
+The Gas Phase Reaction Scheme feature introduces a mode to handle reactions involving gaseous reactants and products. This feature allows users to input and calculate parameters specifically for gas-phase reactions.
 
-Currently, the system processes mass spectrometry files from various instruments, with plans to extend support to other data formats and types.
