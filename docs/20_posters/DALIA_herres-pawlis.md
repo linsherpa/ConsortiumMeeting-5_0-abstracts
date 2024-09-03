@@ -1,5 +1,5 @@
 ---
-description: "Prof. Dr.-Ing. Peter F. Pelz, Prof. Dr. rer. nat. Sonja Herres-Pawlis, Frank Lange, Dr. Jochen Ortmeyer, Prof. Dr. rer. nat. Matthias Müller, Prof. Thorsten Schrade, Prof. Dr. Ulrich Sax, Prof. Dr. ThomasStäcker, Dr. Gábor Kismihók, Dr. phil. Canan Hastik"
+description: "Pelz et.al."
 title: "DALIA, Data Literacy for all from the very beginning"
 ---
 
