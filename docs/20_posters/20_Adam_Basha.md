@@ -1,8 +1,8 @@
 ---
 
 
-title: "Adam Basha"
-description: "New Features in Chemotion ELN: Gaseous Reaction Schemes, Sample Type Extension: Mixtures, Chemspectra"
+description: "Adam Basha"
+title: "New Features in Chemotion ELN: Gaseous Reaction Schemes, Sample Type Extension: Mixtures, Chemspectra"
 ---
 
 # New Features in Chemotion ELN: Gaseous Reaction Schemes, Sample Type Extension: Mixtures, Chemspectra

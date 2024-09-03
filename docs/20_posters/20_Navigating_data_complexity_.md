@@ -1,8 +1,8 @@
 ---
 
 
-title: "Auther ? Navigating Data Complexity  "
-description: "Navigating Data Complexity: Standardizing Diverse Formats with Converter Services"
+description: "Auther ? Navigating Data Complexity  "
+title: "Navigating Data Complexity: Standardizing Diverse Formats with Converter Services"
 ---
 
 # Navigating Data Complexity: Standardizing Diverse Formats with Converter Services

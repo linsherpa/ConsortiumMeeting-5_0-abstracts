@@ -1,6 +1,6 @@
 ---
-title: "Guillermo Restrepo"
-description: "Learning from the evolution of the chemical space to transform chemistry"
+description: "Guillermo Restrepo"
+title: "Learning from the evolution of the chemical space to transform chemistry"
 ---
 
 # Learning from the evolution of the chemical space to transform chemistry

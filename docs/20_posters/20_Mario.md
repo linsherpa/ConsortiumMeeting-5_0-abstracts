@@ -1,6 +1,6 @@
 ---
-title: "Mario Wolter"
-description: "Research Data Management in Theoretical Chemistry"
+description: "Mario Wolter"
+title: "Research Data Management in Theoretical Chemistry"
 ---
 
 # Research Data Management in Theoretical Chemistry

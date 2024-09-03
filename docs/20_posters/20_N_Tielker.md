@@ -1,6 +1,6 @@
 ---
-title: "N.Tielker"
-description: "Insights from the euroSAMPL blind prediction challenge for the next NFDI4Chem phase"
+description: "N.Tielker"
+title: "Insights from the euroSAMPL blind prediction challenge for the next NFDI4Chem phase"
 ---
 
 # Insights from the euroSAMPL blind prediction challenge for the next NFDI4Chem phase

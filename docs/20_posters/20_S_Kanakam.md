@@ -1,6 +1,6 @@
 ---
-title: "S. Kanakam"
-description: "nmrXiv: A highly visible and consensus-driven NMR data repository and computational platform"
+description: "S. Kanakam"
+title: "nmrXiv: A highly visible and consensus-driven NMR data repository and computational platform"
 ---
 
 # nmrXiv: A highly visible and consensus-driven NMR data repository and computational platform

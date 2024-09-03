@@ -1,8 +1,8 @@
 ---
 
 
-title: "Aleksei Krasnov"
-description: "Towards More Accurate Chemical Image Recognition: Bridging ML, OSRA, and the Chemical Image Classifier"
+description: "Aleksei Krasnov"
+title: "Towards More Accurate Chemical Image Recognition: Bridging ML, OSRA, and the Chemical Image Classifier"
 ---
 
 # Towards More Accurate Chemical Image Recognition: Bridging ML, OSRA, and the Chemical Image Classifier
