@@ -1,6 +1,6 @@
 ---
-title: "Ali et.al"
-description: "Development of a Comprehensive Chemistry Ontology"
+description: "Ali et.al"
+title: "Development of a Comprehensive Chemistry Ontology"
 ---
 
 
