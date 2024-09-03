@@ -7,7 +7,7 @@ title: "Navigating Data Complexity: Standardizing Diverse Formats with Converter
 
 #### Lincoln Sherpa
 
-##### Centre for Information Services & High Performance Computing (ZIH), TU Dresden,
+##### Centre for Information Services & High Performance Computing (ZIH), TU Dresden
 
 ###### E-mail: lincoln.sherpa@tu-dresden.de
 
