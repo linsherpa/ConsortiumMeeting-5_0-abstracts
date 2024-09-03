@@ -1,6 +1,6 @@
 ---
-title: "Sherpa"
-description: "Navigating Data Complexity: Standardizing Diverse Formats with Converter Services"
+description: "Lincoln Sherpa"
+title: "Navigating Data Complexity: Standardizing Diverse Formats with Converter Services"
 ---
 
 # Navigating Data Complexity: Standardizing Diverse Formats with Converter Services

@@ -1,6 +1,6 @@
 ---
-title: "Adrian Herrmann"
-description: "Enabling Digitalization for Chemists: Expanding Chemotion ELN"
+description: "Adrian Herrmann"
+title: "Enabling Digitalization for Chemists: Expanding Chemotion ELN"
 ---
 
 # Enabling Digitalization for Chemists: Expanding Chemotion ELN

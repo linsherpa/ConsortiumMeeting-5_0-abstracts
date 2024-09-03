@@ -1,8 +1,8 @@
 ---
 
 
-title: "Lincoln Sherpa "
-description: "Authentication and Authorization Infrastructure (AAI) in NFDI4Chem"
+description: "Lincoln Sherpa "
+title: "Authentication and Authorization Infrastructure (AAI) in NFDI4Chem"
 ---
 
 # Authentication and Authorization Infrastructure (AAI) in NFDI4Chem
