@@ -1,17 +1,17 @@
 ---
 
 
-description: "Auther ? Navigating Data Complexity  "
+description: " Lincoln Sherpa  "
 title: "Navigating Data Complexity: Standardizing Diverse Formats with Converter Services"
 ---
 
 # Navigating Data Complexity: Standardizing Diverse Formats with Converter Services
 
-#### Auther ?
+#### Lincoln Sherpa
 
-##### institution ?
+##### Centre for Information Services & High Performance Computing (ZIH), TU Dresden
 
-###### E-Mail:
+###### E-Mail: lincoln.sherpa@tu-dresden.de
 
 
 The integration of the latest machines and technologies, combined with a diverse array of existing systems, expands the range of data formats and types, thereby introducing new challenges. To effectively navigate these complexities, it is crucial to implement robust governance mechanisms that ensure seamless conversion of diverse data formats into standardized forms. An infrastructure for deploying converter services has been established, providing users with a streamlined, user-friendly platform for effortlessly transforming data into standardized formats.
