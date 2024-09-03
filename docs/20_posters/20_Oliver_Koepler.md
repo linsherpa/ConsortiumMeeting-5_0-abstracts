@@ -1,6 +1,6 @@
 ---
-title: "Oliver Koepler"
-description: "NFDI4Chem's Semantic Data Hub: One-stop Shop for FAIR Chemistry Metadata and MIChIs"
+description: "Oliver Koepler"
+title: "NFDI4Chem's Semantic Data Hub: One-stop Shop for FAIR Chemistry Metadata and MIChIs"
 
 ---
 

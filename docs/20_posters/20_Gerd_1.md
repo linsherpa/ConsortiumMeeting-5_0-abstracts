@@ -1,8 +1,8 @@
 ---
 
 
-title: "Gerd Blanke"
-description: "InChI: what is it and what will it be?"
+description: "Gerd Blanke"
+title: "InChI: what is it and what will it be?"
 ---
 
 # InChI: what is it and what will it be?

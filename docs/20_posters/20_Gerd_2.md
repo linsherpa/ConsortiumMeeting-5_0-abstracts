@@ -1,8 +1,8 @@
 ---
 
 
-title: "Gerd Blanke, Sonja H. Herres-Pawlis"
-description: "InChI for inorganic chemists: Organometallics and molecular inorganics?"
+description: "Gerd Blanke, Sonja H. Herres-Pawlis"
+title: "InChI for inorganic chemists: Organometallics and molecular inorganics?"
 ---
 
 # InChI for inorganic chemists: Organometallics and molecular inorganics

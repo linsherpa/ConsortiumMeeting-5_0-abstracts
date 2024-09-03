@@ -1,6 +1,6 @@
 ---
-title: "Chia-Lin"
-description: "Chemotion LabIMotion: A Customizable, Standardizable, and Collaborative Software Solution for Enhanced Scientific Research and Data Management Across the Chemotion Platform"
+description: "Chia-Lin"
+title: "Chemotion LabIMotion: A Customizable, Standardizable, and Collaborative Software Solution for Enhanced Scientific Research and Data Management Across the Chemotion Platform"
 ---
 
 # Chemotion LabIMotion: A Customizable, Standardizable, and Collaborative Software Solution for Enhanced Scientific Research and Data Management Across the Chemotion Platform

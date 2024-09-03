@@ -1,8 +1,8 @@
 ---
 
 
-title: " Claudia Bobach "
-description: "Development of a Comprehensive Chemistry Ontology"
+description: " Claudia Bobach "
+title: "Development of a Comprehensive Chemistry Ontology"
 ---
 
 # Development of a Comprehensive Chemistry Ontology

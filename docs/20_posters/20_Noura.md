@@ -1,6 +1,6 @@
 ---
-title: "Noura Rayya"
-description: "MARGARITAS: recoMmendation stAndard foR reportinG liquid-stAte nmR experImenTs of smAll moleculeS"
+description: "Noura Rayya"
+title: "MARGARITAS: recoMmendation stAndard foR reportinG liquid-stAte nmR experImenTs of smAll moleculeS"
 ---
 
 # MARGARITAS: recoMmendation stAndard foR reportinG liquid-stAte nmR experImenTs of smAll moleculeS

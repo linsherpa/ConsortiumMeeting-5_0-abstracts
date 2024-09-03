@@ -1,6 +1,6 @@
 ---
-title: "Annett Schröter"
-description: "Enhancing Research Data Management: A Chemistry-Specific Exercise Catalogue"
+description: "Annett Schröter"
+title: "Enhancing Research Data Management: A Chemistry-Specific Exercise Catalogue"
 ---
 
 # Enhancing Research Data Management: A Chemistry-Specific Exercise Catalogue

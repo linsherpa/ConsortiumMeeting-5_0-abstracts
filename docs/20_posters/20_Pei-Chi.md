@@ -1,6 +1,6 @@
 ---
-title: "Pei-Chi Huang"
-description: "Research Data Management and Data Publication with Chemotion Repository"
+description: "Pei-Chi Huang"
+title: "Research Data Management and Data Publication with Chemotion Repository"
 ---
 
 # Research Data Management and Data Publication with Chemotion Repository
