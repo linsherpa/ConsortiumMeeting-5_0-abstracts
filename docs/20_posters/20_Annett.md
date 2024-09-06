@@ -13,7 +13,7 @@ title: "Enhancing Research Data Management: A Chemistry-Specific Exercise Catalo
 ##### <sup>4</sup>TU Braunschweig
 
 
-###### E-mail: 
+###### 
 
 
 Workshops for researchers or students on research data management (RDM) skills are often offered by central RDM service facilities at universities or non-university research institutions. Although the basic aspects of RDM are discussed, there are often no discipline-specific examples or tools, so participants often lack a tangible relevance to their own research activities and would like to see more practical examples from their own daily laboratory work.

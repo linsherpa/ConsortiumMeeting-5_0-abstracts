@@ -12,7 +12,7 @@ title: "Research Data Management and Data Publication with Chemotion Repository"
 ##### 3.	Johannes Gutenberg University Mainz
 
 
-###### E-mail: 
+###### 
 
 
 The Chemotion Repository is a specialized platform established for chemistry and related disciplines, designed to preserve molecular synthesis and characterization data. It offers a comprehensive suite of tools that support data collection, preparation, and reuse through discipline-specific methods and processing tools. Automated procedures for selecting analytical data streamline the organization process, while the platform's data publishing and citation features include automated Digital Object Identifier (DOI) generation, peer review workflows, customizable embargo settings, and registration with databases such as DataCite and PubChem. The Chemotion Repository provides a robust data management solution, preserving domain-specific information in a machine-readable format to address the challenges of contemporary research data management.

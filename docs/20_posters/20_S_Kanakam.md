@@ -9,7 +9,7 @@ title: "nmrXiv: A highly visible and consensus-driven NMR data repository and co
 
 ##### 
 
-###### E-mail: 
+###### 
 
 
 Nuclear magnetic resonance (NMR) allows researchers to obtain rich structural information from the vibrations of the molecules in their natural environment while they are still intact. It is the standard method of determining the absolute chemical structure (chirality and, more commonly, to determine the relative configuration of diastereomers). NMR is also widely used in natural product dereplication, unknown identification and metabolomics [1]. Owing to the importance of NMR data, several databases have been developed to host literature-derived and experimental NMR data of synthetic molecules and natural products over the past few decades. However, most of these databases cannot accept NMR data depositions from community members. They also do not meet the needs of the natural products/metabolomics communities in several ways. That includes closed licences, lack of experimental data, limited search capabilities and, more importantly, they are not FAIR compliant.

@@ -12,7 +12,7 @@ title: "Chemotion LabIMotion: A Customizable, Standardizable, and Collaborative 
 ##### 3.	Johannes Gutenberg University Mainz
 
 
-###### E-mail: 
+###### 
 
 
 Chemotion LabIMotion is a versatile electronic laboratory notebook (ELN) software designed to cater to the diverse needs of scientists. As the Chemotion ELN extension, Chemotion LabIMotion features customizable modules that provide users with the flexibility to adapt the software to their specific research requirements, whether they involve chemistry-specific features. This adaptability allows scientists to design and integrate new modules seamlessly, optimizing the management of materials, samples, and workflows. Additionally, Chemotion LabIMotion promotes collaborative research by enabling the effortless sharing of templates and synchronization across different applications through Chemotion LabIMotion Template Hub, which has been synchronized more than 300 times across the Chemotion ELN instances.

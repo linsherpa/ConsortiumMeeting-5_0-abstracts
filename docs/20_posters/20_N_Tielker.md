@@ -12,7 +12,7 @@ title: "Insights from the euroSAMPL blind prediction challenge for the next NFDI
 ##### <sup>2</sup>Georg August University of Göttingen, 
 ##### <sup>3</sup>Johannes Gutenberg University Mainz, 4Ruhr University Bochum
 
-###### E-Mail: 
+###### 
 
 Compliance of computational chemistry with the FAIR (Findable, Accessible, Interoperable, and Reusable) principles for sustainable research data management (RDM) is vital for maximizing reproducibility of data and results, and to easily verify and use newly developed methods. For the combination of FAIR data with data reproducibility standards to make RDM even "fairer", we choose the acronym FAIR+R. This includes methods such as the automated or manual annotation of generated research data with relevant author- and domain-specific metadata, shared indexing between experimental and computational data, persistent storage, and the transparent and automated analysis of raw computational data.
 

@@ -13,7 +13,7 @@ title: "MARGARITAS: recoMmendation stAndard foR reportinG liquid-stAte nmR exper
 ##### 4. Leibniz-Institut für Pflanzenbiochemie, Halle
 ##### 5. Johannes Gutenberg-Universität, Mainz
 
-###### E-mail: 
+######  
 
 
 Nuclear Magnetic Resonance (NMR) spectroscopy is a powerful analytical technique that plays a pivotal role in unravelling small molecules' structural and dynamic properties. Its applications in various scientific disciplines, from chemistry to biology, are vast and continue to grow. However, despite its widespread usage, there is a pressing need for standardised reporting practices in small molecule liquid-state NMR experiments. This gap in reporting standards has led to inconsistencies in data interpretation, hindering scientific reproducibility and progress.

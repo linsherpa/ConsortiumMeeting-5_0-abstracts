@@ -9,9 +9,9 @@ title: "Towards More Accurate Chemical Image Recognition: Bridging ML, OSRA, and
 
 #### Aleksei Krasnov
 
-##### institution ?
+##### 
 
-###### E-Mail:
+###### 
 
 
 The field of Optical Chemical Structure Recognition (OCSR) has recently seen renewed interest due to advancements in Deep Learning and the development of specialized image recognition models. This study investigates the effectiveness of various OCSR methods, including DECIMER, MolScribe, RxnScribe, and OSRA, using an independent dataset derived from patents and patent applications.

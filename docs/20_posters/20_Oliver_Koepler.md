@@ -13,7 +13,7 @@ title: "NFDI4Chem's Semantic Data Hub: One-stop Shop for FAIR Chemistry Metadata
 ##### <sup>3</sup>IPB - Leibniz Institute of Plant Biochemistry, Computational Plant Biochemistry, Weinberg 3, 06120 Halle, Germany.
 
 
-###### E-Mail: 
+###### 
 
 ![Figure](/img/oliver.png)
 

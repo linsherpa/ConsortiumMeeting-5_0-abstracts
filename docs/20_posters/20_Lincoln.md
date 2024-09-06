@@ -11,7 +11,7 @@ title: "Authentication and Authorization Infrastructure (AAI) in NFDI4Chem"
 
 ##### TU Dresden
 
-###### E-Mail:
+###### 
 
 
 The IAM4NFDI initiative is focused on connecting and expanding Identity and Access Management (IAM) systems to enable researchers from various domains and institutions to effortlessly access digital resources within NFDI, while also facilitating interaction with external infrastructures and resources through a decentralized, federated IAM. This is achieved through the implementation of Community Authentication and Authorization Infrastructure (AAI).

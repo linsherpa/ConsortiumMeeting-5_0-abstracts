@@ -18,7 +18,7 @@ title: "InChI for inorganic chemists: Organometallics and molecular inorganics?"
 ##### <sup>7</sup>Beilstein Institut, Frankfurt(Main), Germany
 
 
-###### E-Mail:
+###### 
 
 
 
