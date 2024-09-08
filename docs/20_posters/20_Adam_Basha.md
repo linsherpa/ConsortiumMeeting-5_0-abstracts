@@ -7,7 +7,7 @@ title: "New Features in Chemotion ELN: Gaseous Reaction Schemes, Sample Type Ext
 
 # New Features in Chemotion ELN: Gaseous Reaction Schemes, Sample Type Extension: Mixtures, Chemspectra
 
-#### Adam Basha, Lan B. Q. Le, and Tasnim Mehzabin
+#### Adam Basha, Lan B. Q. Le, Tasnim Mehzabin
 
 ##### 
 
